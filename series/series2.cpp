@@ -7,5 +7,12 @@ int main(){
 
     cin>> n;
 
-    
+    cout << (" 1 + 2 +3 .... + ") <<n <<endl;
+
+    while ( a <= n )
+    {
+        sum = sum + a;
+        a = a + 1;
+    }
+    cout << sum;
 }
