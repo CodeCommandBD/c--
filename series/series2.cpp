@@ -1,3 +1,4 @@
+// 1 + 2 + 3 + ....... + N; 
 #include <iostream>
 
 using namespace std;
