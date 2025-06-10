@@ -1,3 +1,4 @@
+// total number print  from user input 
 #include <iostream>
 
 using namespace std;

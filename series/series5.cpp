@@ -1,5 +1,7 @@
 // 1 + 2 + 3+ .... + N;
 // Total sum of number;
+// count odd or even of number;
+
 #include <iostream>
 
 using namespace std;
