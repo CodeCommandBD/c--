@@ -7,8 +7,8 @@ int main(){
     cin>> n;
 
     for(row = 1; row <= n; row++){
-        for(col =1; col<= 4; col++){
-            if(row == 4 || col == 1 || col == row){
+        for(col =1; col<= n; col++){
+            if(row == n || col == 1 || col == row){
                 cout<< "*";
             }else{
                 cout<< " ";
