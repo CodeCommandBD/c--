@@ -4,10 +4,10 @@ using namespace std;
 
 int main()
 {
-    int num1, count = 0, totalPrime = 0, primeSum=0;
-    // cin >> num1;
+    int num1,n, count = 0, totalPrime = 0, primeSum=0;
+    cin >> n;
 
-    for ( num1 = 0; num1 <= 10; num1++)
+    for ( num1 = 0; num1 <= n; num1++)
     {
         count = 0;
         if (num1 <= 1)
