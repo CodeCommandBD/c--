@@ -12,8 +12,8 @@ public:
     {
         cout << id << " " << gpa <<endl;
     }
-    
-    // constructor 
+
+    // constructor with param
     student(int x, double y){
         id = x;
         gpa = y;
