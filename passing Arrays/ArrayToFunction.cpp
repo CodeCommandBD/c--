@@ -3,7 +3,7 @@
 using namespace std;
 
 void dis(int num[], int size){
-    for(int i = 0; i<=4; i++){
+    for(int i = 0; i< size; i++){
         cout<< num[i] <<" ";
     }
 }
